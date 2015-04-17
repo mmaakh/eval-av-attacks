@@ -1,1 +1,5 @@
-Ignore "training_authors" as they are not used in this evaluation.
+Notes:
+    - Ignore "training_authors" as they are not used in this evaluation.
+    - File path names are prefixed by "./dataset_fobjects/". These should be
+      ignored as well. The rest of the path name can be used to uniquely
+      identify the text file from the Extended-Brennan-Greenstadt corpus.
